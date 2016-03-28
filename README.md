@@ -5,14 +5,14 @@ The game of Light's out with changeable dimensions and replayability
 
 1.  Download files
 2.  Extract zip file (If using download zip option)
-3.  Navagate to LightsOutJava folder
+3.  Navagate to LightsOutJava folder (inside Lights-Out-Java folder)
 4.  Click runLightsOutJava.bat
 
 Enjoy!!!
 
 Created by Taylor Scafe
 
-Project completeted at Graceland University
+Project completed at Graceland University
 
 ## Update log:
 
