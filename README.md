@@ -3,9 +3,8 @@ The game of Light's out with changeable dimensions and replayability
 
 ## How to play:
 
-1.  Download files
-2.  Extract zip file (If using download zip option)
-3.  Click Light's Out Jar
+1.  Download file ([Jar](https://github.com/robosheep95/Lights-Out-Java/raw/master/LightsOut.jar))
+2.  Launch Program
 
 Enjoy!!!
 
